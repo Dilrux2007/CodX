@@ -1,0 +1,810 @@
+* {
+    text-decoration: none;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    /* 
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Red Hat Display', sans-serif;
+    font-family: 'Roboto', sans-serif; 
+    */
+
+}
+
+nav {
+    margin-top: 36px;
+}
+
+nav ul a {
+    text-decoration: none;
+}
+
+.ul_Div {
+    width: 270px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.saytsimg{
+    width: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.href_Div {
+    font-family: 'Outfit';
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Red Hat Display', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 16px;
+    letter-spacing: 0.48px;
+    color: #222222;
+}
+
+.divIMG_logo {
+    display: flex;
+
+}
+
+.btnGroup{
+    height: 40px;
+left: 0%;
+right: 0%;
+top: 0px;
+
+background: #2F2F2F;
+border-radius: 20px;
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 14px;
+/* identical to box height, or 108% */
+
+text-align: center;
+/* letter-spacing: 0.48px; */
+
+color: #FFFFFF;
+padding: 11px 15px 15px 15px;
+
+}
+
+.extra{
+    margin-top: 260px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 14px;
+    /* identical to box height, or 108% */
+    
+    letter-spacing: 0.48px;
+    
+    color: #82CBAC;
+}
+
+.changeyour{
+    font-family: 'Red Hat Display', sans-serif;
+    font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 64px;
+/* identical to box height, or 100% */
+
+letter-spacing: 0.48px;
+
+color: #2F2F2F;
+
+}
+
+.digital{
+    font-family: 'Red Hat Display', sans-serif;
+    font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 64px;
+/* identical to box height, or 100% */
+
+letter-spacing: 0.48px;
+
+color: #2F2F2F;
+margin-bottom: 25px;
+}
+
+.suspen{
+    font-family: 'Red Hat Display', sans-serif;
+    font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 26px;
+/* identical to box height, or 153% */
+
+letter-spacing: 0.48px;
+
+color: #2F2F2F;
+
+}
+
+.varius{
+    font-family: 'Red Hat Display', sans-serif;
+    font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 26px;
+/* identical to box height, or 153% */
+
+letter-spacing: 0.48px;
+margin-top: -20px;
+color: #2F2F2F;
+
+}
+
+.boy{
+    top: 0;
+    left: -10px;
+    margin-top: 140px;
+}
+
+.girldivota{
+    position: relative;
+}
+
+.girl{
+    position: absolute;
+    right: 60px;
+    top: -230px;
+    margin-bottom: 221px;
+}
+
+.carusel{
+    margin-top: 383px;  
+}
+
+.caruselimgdiv{
+    display: flex;
+    justify-content: center;
+    /* margin-bottom: 128px; */
+}
+
+.heythere{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+
+.there{
+    font-family: 'Red Hat Display', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 64px;
+    text-align: center;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+}
+
+.are{
+    font-family: 'Red Hat Display', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 64px;
+    text-align: center;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+}
+
+.neque{
+    font-family: 'Red Hat Display', sans-serif;
+    font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 26px;
+/* identical to box height, or 153% */
+
+text-align: center;
+letter-spacing: 0.48px;
+
+color: #2F2F2F;
+}
+
+.arcu{
+    font-family: 'Red Hat Display', sans-serif;
+    font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 26px;
+/* identical to box height, or 153% */
+
+text-align: center;
+letter-spacing: 0.48px;
+margin-top: -15px;
+color: #2F2F2F;
+}
+
+.btnota{
+    display: flex;
+    justify-content: space-between;
+}
+
+.jack{
+    height: 50px;
+left: 0%;
+right: 0%;
+top: 0px;
+
+
+border: 1px solid #2F2F2F;
+border-radius: 30px;
+
+ padding: 11px 66px 17px 65px;
+ color: #2F2F2F;
+ font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 22px;
+/* identical to box height, or 100% */
+
+text-align: center;
+letter-spacing: 0.48px;
+}
+
+.suni{
+    height: 50px;
+left: 0%;
+right: 0%;
+top: 0px;
+
+border: 1px solid #2F2F2F;
+border-radius: 30px;
+font-family: 'Red Hat Display', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 22px;
+/* identical to box height, or 100% */
+padding: 11px 69px 17px 67px;
+text-align: center;
+letter-spacing: 0.48px;
+
+color: #2F2F2F;
+}
+
+.colin{
+    height: 50px;
+left: 0%;
+right: 0%;
+top: 0px;
+
+border: 1px solid #2F2F2F;
+border-radius: 30px;
+font-family: 'Red Hat Display', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 22px;
+/* identical to box height, or 100% */
+padding: 11px 69px 17px 67px;
+text-align: center;
+letter-spacing: 0.48px;
+margin-bottom: 64px;
+color: #2F2F2F;
+}
+
+.colin:hover {
+    background: #2F2F2F;
+    color: #FFFFFF;
+}
+
+.suni:hover {
+    background: #2F2F2F;
+    color: #FFFFFF;
+}
+
+.jack:hover {
+    background: #2F2F2F;
+    color: #FFFFFF;
+}
+
+.artist{
+    font-family: 'Red Hat Display', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0.48px;
+    color: #FF7F96;
+    margin-top: 60px;
+}
+
+.blandit{    
+    font-family: 'Red Hat Display', sans-serif;
+    font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 36px;
+/* identical to box height, or 100% */
+
+letter-spacing: 0.48px;
+
+color: #2F2F2F;
+}
+
+.quam{
+    font-family: 'Red Hat Display', sans-serif;
+    font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 36px;
+/* identical to box height, or 100% */
+
+letter-spacing: 0.48px;
+
+color: #2F2F2F;
+}
+
+.lorem{
+    font-family: 'Red Hat Display', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    width: 480px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+}
+
+
+.rasm{
+    
+    margin-top: 146px;
+}
+
+.rasmtext{
+    position: relative;
+}
+
+.work{
+    font-family: 'Red Hat Display', sans-serif;
+    font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 36px;
+/* identical to box height, or 103% */
+
+letter-spacing: 0.48px;
+text-transform: uppercase;
+
+color: #2F2F2F;
+    margin-top: 203px;
+}
+
+.um{
+    font-family: 'Red Hat Display', sans-serif;
+    font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 48px;
+/* or 100% */
+
+letter-spacing: 0.48px;
+margin-top: 7px;
+color: #2F2F2F;
+}
+
+.nulla{
+    font-family: 'Red Hat Display', sans-serif;
+    font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+margin-top: 38px;
+letter-spacing: 0.48px;
+
+color: #2F2F2F;
+
+}
+
+.about{
+    font-family: 'Red Hat Display', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 0.48px;
+    color: #FFFFFF;
+    background: #2F2F2F;
+    padding: 12px 40px 16px 40px;
+    position: absolute;
+    right: 0;
+    margin-top: 32px;
+}
+
+.man{
+    margin-top: 146px;
+}
+
+.first{
+    margin-top: 230px;
+    height: 35px;
+left: 0%;
+right: 0%;
+top: 0px;
+border: none;
+background: #82CBAC;
+border-radius: 30px;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+/* identical to box height, or 112% */
+
+letter-spacing: 0.48px;
+
+color: #FFFFFF;
+padding: 6px 20px 11px 20px;
+}
+.seccond{
+    height: 35px;
+left: 0%;
+right: 0%;
+top: 0px;
+border: none;
+background: #FF7F96;
+border-radius: 30px;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+/* identical to box height, or 112% */
+
+letter-spacing: 0.48px;
+
+color: #FFFFFF;
+padding: 6px 20px 11px 20px;
+}
+.third{
+    height: 35px;
+left: 0%;
+right: 0%;
+top: 0px;
+border: none;
+background: #EAD71B;
+border-radius: 30px;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+/* identical to box height, or 112% */
+
+letter-spacing: 0.48px;
+
+color: #FFFFFF;
+padding: 6px 20px 11px 20px;
+}
+
+.firstP{
+    width: 431px;
+    font-family: 'Red Hat Display', sans-serif;
+    font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+letter-spacing: 0.48px;
+
+color: #2F2F2F;
+
+}
+
+.otadivnomerasiya{
+    padding-left: 64px;
+    /* margin-bottom: 100px; */
+}
+
+
+
+
+.browsebycollestions{
+    margin-top: 100px;
+    margin-bottom: 73px;
+    display: flex;
+    justify-content: center;
+}
+
+.pixeltext{
+    height: 26px;
+left: 13.97%;
+right: 45.81%;
+top: 29px;
+font-family: 'Red Hat Display', sans-serif;
+
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 26px;
+/* identical to box height, or 100% */
+padding: 29px 164px 37px 50px;
+letter-spacing: 0.48px;
+
+color: #2F2F2F;
+}
+
+.arttext{   
+    font-family: 'Red Hat Display', sans-serif;
+    font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 26px;
+/* identical to box height, or 100% */
+margin-bottom: 64px;
+letter-spacing: 0.48px;
+padding: 29px 266px 37px 50px;
+color: #2F2F2F;
+}
+
+.phototext{
+    font-family: 'Red Hat Display', sans-serif;
+    font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 26px;
+/* identical to box height, or 100% */
+
+letter-spacing: 0.48px;
+
+color: #2F2F2F;
+padding: 29px 146px 37px 50px;
+}
+
+.btntext{
+    background: #2F2F2F;
+    border: none;
+    padding: 12px 40px 16px 40px;
+    /* text-align: center; */
+    font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height, or 114% */
+
+text-align: center;
+letter-spacing: 0.48px;
+
+color: #FFFFFF;
+}
+
+.btn1{
+    text-align: center;
+    margin-bottom: 95px;
+}
+
+.topnft{
+    display: flex;
+    justify-content: center;
+}
+
+.top{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 63px;
+    line-height: 64px;
+    /* identical to box height, or 102% */
+    text-align: center;
+    letter-spacing: 0.48px;
+    margin-bottom: 25px;
+    color: #2F2F2F;
+}
+
+.aboutNFT{
+    display: flex;
+}
+
+.koz{
+    margin-top: 25px;
+    padding-left: 90px;
+    padding-top: 5px;
+    width: 109px;
+    height: 15px;
+}
+
+.ayiqnarqi{
+    padding-left: 8px;
+}
+
+.mag{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 75px;
+}
+
+
+.ayiq{
+    margin-left: 50px;
+}
+
+.odam{
+    margin-left: -30px;
+}
+
+.siklop{
+    margin-left: -114px;
+} 
+
+.textayiq{
+    margin-top: 25px;
+    margin-left: 55px;
+}
+
+.ayiqnarqi{
+    margin-top: 25px;
+}
+
+.textodam{
+    margin-top: 25px;
+}
+
+.textsiklop{
+    margin-top: 25px;
+    margin-left:-90px;
+}
+
+.kart{
+    margin-top: 75px;
+    margin-left: 50px;
+}
+
+.zombie{
+    margin-top: 75px;
+    margin-left: -30px;
+}
+
+.kalla{
+    margin-top: 75px;
+    margin-left: -114px;
+}
+
+.btntexttwo{
+    margin-top: 97px;
+    background: #2F2F2F;
+    border: none;
+    padding: 12px 40px 16px 40px;
+    /* text-align: center; */
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    /* identical to box height, or 114% */
+
+    text-align: center;
+    letter-spacing: 0.48px;
+
+    color: #FFFFFF;
+}
+
+
+
+
+.accordion-item{
+    margin-top: 50px;
+    border: none;
+}
+
+.accordion-item_b{
+    margin-top: 50px;
+    margin-bottom: 225px;
+}
+
+.join{
+    margin-top: 60px;
+    margin-bottom: 10px;
+    font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 20px;
+/* identical to box height, or 100% */
+
+letter-spacing: 0.48px;
+
+color: #2F2F2F;
+
+}
+
+.twohandred{
+    margin-top: 125px;
+}
+
+.two{
+    margin-top: 17px;
+}
+
+.nft{
+    margin-top: 8px;
+}
+
+.contact{
+    margin-top: 8px;
+}
+
+.site{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    /* identical to box height, or 100% */
+
+    letter-spacing: 0.48px;
+
+    color: #2F2F2F;
+
+}
+
+.two{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 16px;
+    /* identical to box height, or 107% */
+
+    letter-spacing: 0.48px;
+
+    color: #2F2F2F;
+}
+.nft{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 16px;
+    /* identical to box height, or 107% */
+
+    letter-spacing: 0.48px;
+
+    color: #2F2F2F;
+}
+.contact{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 16px;
+    /* identical to box height, or 107% */
+
+    letter-spacing: 0.48px;
+
+    color: #2F2F2F;
+}
+
+.singsubmit{
+    background: #2F2F2F;
+    border-radius: 20px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    /* identical to box height, or 114% */
+    padding: 11px 14px 25px 15px;
+    letter-spacing: 0.48px;
+    height: 16px;
+    left: 18.99%;
+    right: 17.72%;
+    top: 11px;
+    color: #FFFFFF;
+    margin-bottom: 16px;
+}
+
+.youremile{
+    padding: 12px 169px 12px 32px;
+    border-radius: 30px;
+    border: none;
+    background: #F6F6F6;
+    margin-top: 16px;
+}
